@@ -27,7 +27,9 @@
         <li>Creating branches: </li>
           <ul>
             <li>git branch dev1</li>
+            <li>git push origin dev1</li>
             <li>git branch dev2</li>
+             <li>git push origin dev2</li>
         </ul>
        
         
