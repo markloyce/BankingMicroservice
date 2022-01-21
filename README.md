@@ -10,7 +10,7 @@
           <li>artifact Id: capstoneproject</li>
           <li>src/main/java/com/loyce/App.java</li>
           <li>src/test/java/com/loyce/AppTest.java</li>
-          <li>Create target folder: "mvn compile"</li>
+          <li>Create target folder and jar files: "mvn compile package"</li>
         </ul>
           
        
